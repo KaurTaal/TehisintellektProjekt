@@ -1,6 +1,6 @@
 # Kabe veebirakendus
 
-Rakenduse nägemiseks vajuta [siia](https://kaurtaal.github.io/TehisintellektProjekt/)
+Mängimiseks vajuta [siia](https://kaurtaal.github.io/TehisintellektProjekt/).
 
 ## Eesmärk
 Eesmärk oli luua interaktiivne rakendus, kus kasutaja saab mängida kabet erinevate algoritmide vastu. Lisaks saab kasutaja vaadata, kuidas erinevad algoritmid omavahel mängivad.
@@ -25,6 +25,9 @@ Esmalt tuli paika saada üldine loogika. See haldas laua kuvamist, nuppude paigu
 
 ## Probleemid
 Põhiprobleemiks oli aeg. Ajapuuduse tõttu ei saanud rakendust piisavalt täiendada, nii et kasutaja saaks vajaliku tagasisidet. Näiteks sellel ajal, kui algoritm mõtleb oleks hea, kui kasutajale kuvada mingit "loading" laadset asja. Lisaks oleks tahtnud disaini kallal rohkem vaeva näha, aga hetkel jääb see tuleviku plaanideks. Endale jäi kripeldama ka koodi selgus. Testimise käigus ei pööranud piisvalt tähelepanu koodi selgusele ja ühtsusele ning hiljem polnud enam aega kahjuks sellele keskenduda.
+
+## Rakendus
+Rakendust on võimalik testida [siin](https://kaurtaal.github.io/TehisintellektProjekt/).
 
 ## Enne rakenduse lokaalselt käivitamist tee kindlaks
 * Nodejs on alla laetud. [Download link](https://nodejs.org/en/download/)
