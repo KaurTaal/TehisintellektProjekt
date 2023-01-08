@@ -1,0 +1,2 @@
+# TehisintellektProjekt
+Kabe veebirakendus
