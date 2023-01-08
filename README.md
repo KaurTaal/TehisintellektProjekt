@@ -22,7 +22,7 @@ Testid on näha /tests/unit kaustas.
 Esmalt tuli paika saada üldine loogika. See haldas laua kuvamist, nuppude paigutamist ja nuppude liigutamist. Edasi hakkasin paika panema erinevaid algoritme. Pärast algoritmide valmimist hakkasin neid testima ning peale testimist implementeerisin nad rakendusse sisse. Kõige selle käigus kaasnesid igasugused bugi lahendamisesd, disaini koostamine jne.
 
 ## Probleemid
-Põhiprobleemiks oli aeg. Ajapuuduse tõttu ei saanud rakendust piisavalt täiendada, nii et kasutaja saaks vajaliku tagasisidet. Näiteks sellel ajal, kui algoritm mõtleb oleks hea, kui kasutajale kuvada mingit "loading" laadset asja. Lisaks oleks tahtnud disaini kallal rohkem vaeva näha, aga hetkel jääb see tuleviku plaanideks.
+Põhiprobleemiks oli aeg. Ajapuuduse tõttu ei saanud rakendust piisavalt täiendada, nii et kasutaja saaks vajaliku tagasisidet. Näiteks sellel ajal, kui algoritm mõtleb oleks hea, kui kasutajale kuvada mingit "loading" laadset asja. Lisaks oleks tahtnud disaini kallal rohkem vaeva näha, aga hetkel jääb see tuleviku plaanideks. Endale jäi kripeldama ka koodi selgus. Testimise käigus ei pööranud piisvalt tähelepanu koodi selgusele ja ühtsusele ning hiljem polnud enam aega kahjuks sellele keskenduda.
 
 ## Enne rakenduse lokaalselt käivitamist tee kindlaks
 * Nodejs on alla laetud. [Download link](https://nodejs.org/en/download/)
