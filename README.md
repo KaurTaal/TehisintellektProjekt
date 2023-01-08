@@ -1,5 +1,9 @@
 # Kabe-veebirakendus
-Veebirakendus kabe mängimiseks AI vastu.  
+Veebirakendus kabe mängimiseks AI vastu.
+
+## Vajalikud vahendid
+* Node
+* Mingi IDEA
 
 ## Rakenduse jooksutamine
 Alguses:
