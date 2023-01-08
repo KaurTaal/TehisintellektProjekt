@@ -1,5 +1,7 @@
 # Kabe veebirakendus
 
+Rakenduse nägemiseks vajuta [siia](https://kaurtaal.github.io/TehisintellektProjekt/)
+
 ## Eesmärk
 Eesmärk oli luua interaktiivne rakendus, kus kasutaja saab mängida kabet erinevate algoritmide vastu. Lisaks saab kasutaja vaadata, kuidas erinevad algoritmid omavahel mängivad.
 
